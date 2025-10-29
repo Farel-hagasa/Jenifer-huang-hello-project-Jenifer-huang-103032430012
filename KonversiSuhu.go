@@ -1,5 +1,5 @@
 package main
-
+// menambahkan komentar
 import "fmt"
 
 func Reamur(C float64) float64{
